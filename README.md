@@ -1,21 +1,13 @@
 Objetivos do Desafio.
 
 Uma rota para cadastro de usuário
-
 Uma rota para autenticação de usuário
-
 Uma rota para consulta de pessoas, que deve retornar uma lista de objeto de pessoas;
-
 Uma rota para consultar uma pessoa pelo seu código;
-
 Uma rota para consultar pessoas de uma determinada UF;
-
 Uma rota de gravar pessoa, que deve retornar o objeto “salvo”;
-
 O método deve ser capaz de validar as informações recebidas;
-
 Uma rota para atualizar os dados de uma pessoa, que deve retorno o objeto atualizado;
-
 Uma rota para excluir uma pessoa;
 
 Descrição: A aplicação foi construída com .NET 8. Para executar é necessário ter essa versão instalada. Você pode realizar o download aqui: https://dotnet.microsoft.com/pt-br/download/dotnet/8.0
@@ -31,7 +23,6 @@ A aplicação já vem com um usuário carregado, com usuário e senha como 'admi
 A aplicação está divida em duas camadas:
 
 Web: possui toda a documentação com Swagger e rotas que o usuário pode acessar. Essa é a camada que deve ser executada;
-
 Core: possui todos os serviços que implementam as regras de negócio da aplicação e comunicação com os dados que estão em cache. Também possui algumas funções comuns à toda a aplicação;
 
 Execução:
