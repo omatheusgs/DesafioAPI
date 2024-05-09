@@ -31,6 +31,6 @@ Execução:
 * Clone o repositório;
 * Abra a solução;
 * Execute a aplicação (F5);
-* Crie um novo token acessando a parte de Autenticação;
+* Crie um usuário novo ou autentique com o usuário padrão;
 * Copie o token recebido e o coloque na parte de autorização da documentação do Swagger (canto superior direito);
 * Execute as rotas de pessoa.
