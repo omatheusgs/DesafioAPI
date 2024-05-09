@@ -210,11 +210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+      "projectUniqueName": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
       "projectName": "DesafioAPI.Core",
-      "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+      "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\obj\\",
+      "outputPath": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6i21FbuhDDMBYC+NmueRLugT0MtqfSYupqnsriqRMst7YCF5WHih/E79dX/qLpb764DNhTXybaejqdvd1ewiJg==",
+  "dgSpecHash": "xPiUF/mtlVMKytTt+NqxfdfXB5o4dIFQJDh6UNLy2CRcEDlz3nrlG3z/g5N9XQRLO6IkNsOBv65WdfYWV3hfaA==",
   "success": true,
-  "projectFilePath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+  "projectFilePath": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vrgO1UYai/zPyuNpZzQ+bAM7sPAZnH5RyVd0MOeaFxYfq6L1B6oQRjQJ/ll/C515tNcWCov1XJzNpiWSrXXlAA==",
+  "dgSpecHash": "Au4UZNJmn0+OtGclvyazblh/2QAoPijmsHs40lGutVZ/fMXz/+h/EbAXbAlGJJ53cmSirZO1ps2l0jYRn+1xzA==",
   "success": true,
-  "projectFilePath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj",
+  "projectFilePath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.4\\microsoft.aspnetcore.authentication.jwtbearer.8.0.4.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

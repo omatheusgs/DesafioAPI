@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj": {}
+    "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj": {}
   },
   "projects": {
-    "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj": {
+    "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+        "projectUniqueName": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
         "projectName": "DesafioAPI.Core",
-        "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+        "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\obj\\",
+        "outputPath": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj": {
+    "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj",
+        "projectUniqueName": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj",
         "projectName": "DesafioAPI.Web",
-        "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj",
+        "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Web.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\obj\\",
+        "outputPath": "D:\\src\\DesafioAPI\\DesafioAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj": {
-                "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj"
+              "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj": {
+                "projectPath": "D:\\src\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj"
               }
             }
           }
