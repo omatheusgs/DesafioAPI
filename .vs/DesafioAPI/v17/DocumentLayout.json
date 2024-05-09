@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\src\\DesafioAPI\\DesafioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|solutionrelative:desafioapi\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\modelos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\modelos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\servicos\\pessoaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\servicos\\pessoaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\servicos\\interfaces\\ipessoaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\servicos\\interfaces\\ipessoaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|solutionrelative:desafioapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\servicos\\usuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\servicos\\usuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|solutionrelative:desafioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi\\desafioapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{66D6E185-781E-49CA-9EC2-4C890B52AED5}|DesafioAPI\\DesafioAPI.Web.csproj|solutionrelative:desafioapi\\desafioapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\modelos\\respostadarequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\modelos\\respostadarequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\servicos\\interfaces\\iusuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\servicos\\interfaces\\iusuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\modelos\\credenciaisdeacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\modelos\\credenciaisdeacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\autenticacao\\gerartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\autenticacao\\gerartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\constantes\\mensagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\constantes\\mensagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|d:\\src\\desafioapi\\desafioapi\\desafioapi.servicos\\desafioapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{671295B2-B4A1-49CC-AA87-5C1D35D92AFA}|DesafioAPI.Servicos\\DesafioAPI.Core.csproj|solutionrelative:desafioapi.servicos\\desafioapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "DesafioAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "DesafioAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:55:44.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "DesafioAPI\\Controllers\\PessoaController.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "DesafioAPI\\Controllers\\PessoaController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwE8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:29:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioServico.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\UsuarioServico.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Servicos\\UsuarioServico.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\UsuarioServico.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Servicos\\UsuarioServico.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwA0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:08:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaServico.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\PessoaServico.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Servicos\\PessoaServico.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\PessoaServico.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Servicos\\PessoaServico.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwGkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:13:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioAPI\\Program.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\Program.cs",
+              "RelativeToolTip": "DesafioAPI\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:38:39.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RespostaDaRequisicao.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\RespostaDaRequisicao.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Modelos\\RespostaDaRequisicao.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\RespostaDaRequisicao.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Modelos\\RespostaDaRequisicao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:55:55.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\Pessoa.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Modelos\\Pessoa.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\Pessoa.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Modelos\\Pessoa.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:48:01.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CredenciaisDeAcesso.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\CredenciaisDeAcesso.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Modelos\\CredenciaisDeAcesso.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\CredenciaisDeAcesso.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Modelos\\CredenciaisDeAcesso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:01:21.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPessoaServico.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\Interfaces\\IPessoaServico.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Servicos\\Interfaces\\IPessoaServico.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\Interfaces\\IPessoaServico.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Servicos\\Interfaces\\IPessoaServico.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:15:52.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DesafioAPI.http",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\DesafioAPI.http",
+              "RelativeDocumentMoniker": "DesafioAPI\\DesafioAPI.http",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI\\DesafioAPI.http",
+              "RelativeToolTip": "DesafioAPI\\DesafioAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-04T05:43:21.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioServico.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\Interfaces\\IUsuarioServico.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Servicos\\Interfaces\\IUsuarioServico.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Servicos\\Interfaces\\IUsuarioServico.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Servicos\\Interfaces\\IUsuarioServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:20:57.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Modelos\\Usuario.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Modelos\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:59:55.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GerarToken.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Autenticacao\\GerarToken.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Autenticacao\\GerarToken.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Autenticacao\\GerarToken.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Autenticacao\\GerarToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:16:32.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mensagens.cs",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Constantes\\Mensagens.cs",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\Constantes\\Mensagens.cs",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\Constantes\\Mensagens.cs",
+              "RelativeToolTip": "DesafioAPI.Servicos\\Constantes\\Mensagens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:23:45.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DesafioAPI.Core.csproj",
+              "DocumentMoniker": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+              "RelativeDocumentMoniker": "DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+              "ToolTip": "D:\\src\\DesafioAPI\\DesafioAPI\\DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+              "RelativeToolTip": "DesafioAPI.Servicos\\DesafioAPI.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T05:15:14.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

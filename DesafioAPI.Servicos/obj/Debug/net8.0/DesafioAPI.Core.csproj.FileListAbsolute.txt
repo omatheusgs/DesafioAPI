@@ -1,0 +1,12 @@
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\bin\Debug\net8.0\DesafioAPI.Core.deps.json
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\bin\Debug\net8.0\DesafioAPI.Core.dll
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\bin\Debug\net8.0\DesafioAPI.Core.pdb
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\DesafioAPI.Core.csproj.AssemblyReference.cache
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\DesafioAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\DesafioAPI.Core.AssemblyInfoInputs.cache
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\DesafioAPI.Core.AssemblyInfo.cs
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\DesafioAPI.Core.csproj.CoreCompileInputs.cache
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\DesafioAPI.Core.dll
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\refint\DesafioAPI.Core.dll
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\DesafioAPI.Core.pdb
+D:\src\DesafioAPI\DesafioAPI\DesafioAPI.Servicos\obj\Debug\net8.0\ref\DesafioAPI.Core.dll
